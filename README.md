@@ -1,5 +1,4 @@
-### Hi there,
- I have two masters in Electrical eng. and Phd in Informatics and computing. Passionate about testing and optimizing HW/Sw through data analysis
+### Hi there ,
 
-I’m currently working on FIRMWARE development and testing and analysis
+I got my Phd in Informatics and computing from [schoole of Informatics, Computing and Cyber System, Northern Arizona University.](https://nau.edu/school-of-informatics-computing-and-cyber-systems/phd-informatics-and-computing/)
 
